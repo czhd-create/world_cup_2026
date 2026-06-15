@@ -1,6 +1,6 @@
 Variable description
 ====================
-match_no - World cup match number (1 to 72) according to FIFA World Cup website (slight inaccuracy +- 2)
+match_no - World cup match number (1 to 72) according to FIFA World Cup website (slight inaccuracy +- 2 which I haven't fix). There are 72 World Cup matches in round 1.
 
 team_A - Country name
 
