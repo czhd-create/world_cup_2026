@@ -18,4 +18,4 @@ match_details_date - Date according to Singapore time
 
 SGP_time - estimated kickoff time (Singapore time)
 
-*The lower the match_ranking, the higher the likelihood of high football quality based on the teams' combined ranks.
+*The lower the match_ranking, the higher the likelihood of high football quality based on the teams' combined ranks. The actual match entertainment value may defer wildly. :)
