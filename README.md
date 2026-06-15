@@ -1,6 +1,6 @@
 Variable description
 ====================
-match_no - According to FIFA World Cup website (slight inaccuracy +- 2)
+match_no - World cup match number (1 to 72) according to FIFA World Cup website (slight inaccuracy +- 2)
 
 team_A - Country name
 
