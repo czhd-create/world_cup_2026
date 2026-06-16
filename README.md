@@ -18,6 +18,6 @@ match_details_date - Date according to Singapore time
 
 SGP_time - estimated kickoff time (Singapore time)
 
-^Some countries names were renamed due to adhere strictly to 26 alphabet letters (a-z).
+^Some countries' names were renamed to adhere strictly to 26 English alphabet letters (a-z).
 
 *The lower the match_ranking, the higher the likelihood of high football quality based on the teams' combined ranks. The actual match entertainment value may defer wildly. :)
