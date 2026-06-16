@@ -2,8 +2,8 @@ match_no,team_A,team_B,team_A_ranking,team_B_ranking,total_team_ranking,match_ra
 6,Brazil,Morocco,6,7,13,1,"Sunday, 14 June 2026",  6:00:00 am
 22,England,Croatia,4,11,15,2,"Thursday, 18 June 2026",  4:00:00 am
 17,France,Senegal,3,15,18,3,"Wednesday, 17 June 2026",  3:00:00 am
-64,Uruguay,Spain,16,2,18,4,"Saturday, 27 June 2026",  8:00:00 am
-69,Colombia,Portugal,13,5,18,5,"Sunday, 28 June 2026",  7:30:00 am
+64,Uruguay,Spain,16,2,18,3,"Saturday, 27 June 2026",  8:00:00 am
+69,Colombia,Portugal,13,5,18,3,"Sunday, 28 June 2026",  7:30:00 am
 41,Argentina,Austria,1,24,25,6,"Tuesday, 23 June 2026",  1:00:00 am
 10,Netherlands,Japan,8,18,26,7,"Monday, 15 June 2026",  4:00:00 am
 19,Argentina,Algeria,1,28,29,8,"Wednesday, 17 June 2026",  9:00:00 am
@@ -11,33 +11,33 @@ match_no,team_A,team_B,team_A_ranking,team_B_ranking,total_team_ranking,match_ra
 56,Ecuador,Germany,23,10,33,10,"Friday, 26 June 2026",  4:00:00 am
 61,Norway,France,31,3,34,11,"Saturday, 27 June 2026",  3:00:00 am
 14,Belgium,Egypt,9,29,38,12,"Tuesday, 16 June 2026",  3:00:00 am
-67,Panama,England,34,4,38,13,"Sunday, 28 June 2026",  5:00:00 am
+67,Panama,England,34,4,38,12,"Sunday, 28 June 2026",  5:00:00 am
 28,Mexico,South Korea,14,25,39,14,"Friday, 19 June 2026",  9:00:00 am
-59,Turkiye,USA,22,17,39,15,"Friday, 26 June 2026", 10:00:00 am
+59,Turkiye,USA,22,17,39,14,"Friday, 26 June 2026", 10:00:00 am
 34,Germany,Ivory Coast,10,33,43,16,"Sunday, 21 June 2026",  4:00:00 am
 29,USA,Australia,17,27,44,17,"Saturday, 20 June 2026",  3:00:00 am
 47,Panama,Croatia,34,11,45,18,"Wednesday, 24 June 2026",  7:00:00 am
 33,Netherlands,Sweden,8,38,46,19,"Sunday, 21 June 2026",  1:00:00 am
-43,Norway,Senegal,31,15,46,20,"Tuesday, 23 June 2026",  8:00:00 am
+43,Norway,Senegal,31,15,46,19,"Tuesday, 23 June 2026",  8:00:00 am
 51,Scotland,Brazil,42,6,48,21,"Thursday, 25 June 2026",  6:00:00 am
 8,Australia,Turkiye,27,22,49,22,"Sunday, 14 June 2026", 12:00:00 pm
-30,Scotland,Morocco,42,7,49,23,"Saturday, 20 June 2026",  6:00:00 am
-49,Switzerland,Canada,19,30,49,24,"Thursday, 25 June 2026",  3:00:00 am
-65,Egypt,Iran,29,20,49,25,"Saturday, 27 June 2026", 11:00:00 am
+30,Scotland,Morocco,42,7,49,22,"Saturday, 20 June 2026",  6:00:00 am
+49,Switzerland,Canada,19,30,49,22,"Thursday, 25 June 2026",  3:00:00 am
+65,Egypt,Iran,29,20,49,22,"Saturday, 27 June 2026", 11:00:00 am
 21,Portugal,Congo DR,5,46,51,26,"Thursday, 18 June 2026",  1:00:00 am
 71,Algeria,Austria,28,24,52,27,"Sunday, 28 June 2026", 10:00:00 am
 58,Tunisia,Netherlands,45,8,53,28,"Friday, 26 June 2026",  7:00:00 am
 53,Czechia,Mexico,40,14,54,29,"Thursday, 25 June 2026",  9:00:00 am
 45,Portugal,Uzbekistan,5,50,55,30,"Wednesday, 24 June 2026",  1:00:00 am
 11,Ivory Coast,Ecuador,33,23,56,31,"Monday, 15 June 2026",  7:00:00 am
-57,Japan,Sweden,18,38,56,32,"Friday, 26 June 2026",  7:00:00 am
+57,Japan,Sweden,18,38,56,31,"Friday, 26 June 2026",  7:00:00 am
 4,USA,Paraguay,17,41,58,33,"Saturday, 13 June 2026",  9:00:00 am
 48,Colombia,Congo DR,13,46,59,34,"Wednesday, 24 June 2026", 10:00:00 am
 42,France,Iraq,3,57,60,35,"Tuesday, 23 June 2026",  5:00:00 am
 24,Uzbekistan,Colombia,50,13,63,36,"Thursday, 18 June 2026", 10:00:00 am
-32,Turkiye,Paraguay,22,41,63,37,"Saturday, 20 June 2026", 12:00:00 pm
-36,Tunisia,Japan,45,18,63,38,"Sunday, 21 June 2026", 12:00:00 pm
-37,Spain,Saudi Arabia,2,61,63,39,"Monday, 22 June 2026", 12:00:00 am
+32,Turkiye,Paraguay,22,41,63,36,"Saturday, 20 June 2026", 12:00:00 pm
+36,Tunisia,Japan,45,18,63,36,"Sunday, 21 June 2026", 12:00:00 pm
+37,Spain,Saudi Arabia,2,61,63,36,"Monday, 22 June 2026", 12:00:00 am
 72,Jordan,Argentina,63,1,64,40,"Sunday, 28 June 2026", 10:00:00 am
 2,South Korea,Czechia,25,40,65,41,"Friday, 12 June 2026", 10:00:00 am
 60,Paraguay,Australia,41,27,68,42,"Friday, 26 June 2026", 10:00:00 am
@@ -46,10 +46,10 @@ match_no,team_A,team_B,team_A_ranking,team_B_ranking,total_team_ranking,match_ra
 1,Mexico,South Africa,14,60,74,45,"Friday, 12 June 2026",  3:00:00 am
 5,Qatar,Switzerland,56,19,75,46,"Sunday, 14 June 2026",  3:00:00 am
 15,Saudi Arabia,Uruguay,61,16,77,47,"Tuesday, 16 June 2026",  6:00:00 am
-46,England,Ghana,4,73,77,48,"Wednesday, 24 June 2026",  4:00:00 am
+46,England,Ghana,4,73,77,47,"Wednesday, 24 June 2026",  4:00:00 am
 12,Sweden,Tunisia,38,45,83,49,"Monday, 15 June 2026", 10:00:00 am
-26,Switzerland,Bosnia and H,19,64,83,50,"Friday, 19 June 2026",  3:00:00 am
-39,Uruguay,Cabo Verde,16,67,83,51,"Monday, 22 June 2026",  6:00:00 am
+26,Switzerland,Bosnia and H,19,64,83,49,"Friday, 19 June 2026",  3:00:00 am
+39,Uruguay,Cabo Verde,16,67,83,49,"Monday, 22 June 2026",  6:00:00 am
 68,Croatia,Ghana,11,73,84,52,"Sunday, 28 June 2026",  5:00:00 am
 54,South Africa,South Korea,60,25,85,53,"Thursday, 25 June 2026",  9:00:00 am
 27,Canada,Qatar,30,56,86,54,"Friday, 19 June 2026",  6:00:00 am
@@ -60,11 +60,11 @@ match_no,team_A,team_B,team_A_ranking,team_B_ranking,total_team_ranking,match_ra
 44,Jordan,Algeria,63,28,91,59,"Tuesday, 23 June 2026", 11:00:00 am
 9,Germany,Curacao,10,82,92,60,"Monday, 15 June 2026",  1:00:00 am
 3,Canada,Bosnia and H,30,64,94,61,"Saturday, 13 June 2026",  3:00:00 am
-66,New Zealand,Belgium,85,9,94,62,"Saturday, 27 June 2026", 11:00:00 am
+66,New Zealand,Belgium,85,9,94,61,"Saturday, 27 June 2026", 11:00:00 am
 70,Congo DR,Uzbekistan,46,50,96,63,"Sunday, 28 June 2026",  7:30:00 am
 25,Czechia,South Africa,40,60,100,64,"Friday, 19 June 2026", 12:00:00 am
 16,Iran,New Zealand,20,85,105,65,"Tuesday, 16 June 2026",  9:00:00 am
-35,Ecuador,Curacao,23,82,105,66,"Sunday, 21 June 2026",  8:00:00 am
+35,Ecuador,Curacao,23,82,105,65,"Sunday, 21 June 2026",  8:00:00 am
 23,Ghana,Panama,73,34,107,67,"Thursday, 18 June 2026",  7:00:00 am
 40,New Zealand,Egypt,85,29,114,68,"Monday, 22 June 2026",  9:00:00 am
 55,Curacao,Ivory Coast,82,33,115,69,"Friday, 26 June 2026",  4:00:00 am
