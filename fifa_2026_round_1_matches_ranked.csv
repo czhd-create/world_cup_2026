@@ -7,7 +7,7 @@ match_no,team_A,team_B,team_A_ranking,team_B_ranking,total_team_ranking,match_ra
 41,Argentina,Austria,1,24,25,6,"Tuesday, 23 June 2026",  1:00:00 am
 10,Netherlands,Japan,8,18,26,7,"Monday, 15 June 2026",  4:00:00 am
 19,Argentina,Algeria,1,28,29,8,"Wednesday, 17 June 2026",  9:00:00 am
-38,Belgium,Iran,9,20,29,9,"Monday, 22 June 2026",  3:00:00 am
+38,Belgium,Iran,9,20,29,8,"Monday, 22 June 2026",  3:00:00 am
 56,Ecuador,Germany,23,10,33,10,"Friday, 26 June 2026",  4:00:00 am
 61,Norway,France,31,3,34,11,"Saturday, 27 June 2026",  3:00:00 am
 14,Belgium,Egypt,9,29,38,12,"Tuesday, 16 June 2026",  3:00:00 am
