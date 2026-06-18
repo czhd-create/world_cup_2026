@@ -8,7 +8,7 @@ team_B - Country name (Opponent of team_A)^
 
 team_A_rank - team_A Country's official FIFA rank (Men) as at 11 June 2026
 
-team_B_rank - team_A Country's official FIFA rank (Men) as at 11 June 2026
+team_B_rank - team_B Country's official FIFA rank (Men) as at 11 June 2026
 
 total_team_ranking - team_A_rank + team_B_rank
 
